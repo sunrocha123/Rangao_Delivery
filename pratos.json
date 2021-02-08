@@ -1,0 +1,9 @@
+{
+    "pratos" : [
+        {"imagem" : "Imagens/Lanche_BK.png","nomeRestaurante" : "Burger King","nomePrato": "Combo Mega Stacker Atômico 3.0", "valor": 35.8},
+        {"imagem" : "Imagens/Lanche_MC.png","nomeRestaurante" : "MC Donalds","nomePrato": "Big Tasty com McFritas Média, Bebida 500ml e Sundae", "valor": 21.90},
+        {"imagem" : "Imagens/Lanche_PizzaHut.jpg", "nomeRestaurante" : "Pizza Hut","nomePrato" : "Pizza de Calabresa", "valor" : 49.90},
+        {"imagem" : "Imagens/Lanche_MoaBurger.jpg", "nomeRestaurante" : "MOA Burger", "nomePrato" : "Hambúrguer, Batata Frita e Refrigerante", "valor" : 19.50},
+        {"imagem" :"Imagens/Lanche_Bobs.jpg", "nomeRestaurante" : "Bob´s", "nomePrato" : "Combo com Sanduíche, Batata Média, Refri e Sundae", "valor" : 15.90}
+    ]
+}

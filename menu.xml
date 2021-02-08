@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+    <opcao link = "index.html"> Produtos </opcao>
+    <opcao link = "carrinho.html"> Carrinho </opcao>
+</menu>

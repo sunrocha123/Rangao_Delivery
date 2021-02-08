@@ -1,0 +1,131 @@
+/*================= Estilo da página produtos ========================*/
+
+#titulo{
+    font-family: arial;
+    border: solid 2px #00008B;
+    margin: 40px 400px 50px 400px;
+    text-align: center;
+    border-radius: 15px;
+    color: white;
+    background-color: #00008B;
+}
+
+#principal{
+    display: flex;
+    font-family: arial;
+}
+
+#menu{
+    border: solid #838B8B;
+    height: 120px;
+    margin: 100px 0px 0px 0px;
+    text-align: center;
+    border-radius: 45px;
+    padding: 60px 30px 0px;
+    background-color: #838B8B;
+}
+
+:link{
+    text-decoration: none;
+}
+
+.cor{
+    color: white;
+}
+
+#pratos{
+    border: solid 2px #FFD700;
+    width: 1200px;
+    height: 950px;
+    text-align: center;
+    margin-left: 30px;
+    background-color: #FFD700;
+    border-radius: 15px;
+    color: white;
+}
+
+.conteudoPratos{
+    border: solid 2px #00008B;
+    display: inline-block;
+    margin: 15px;
+    text-align: center;
+    background-color: #00008B;
+    border-radius: 20px;
+    height: 440px;
+}
+
+.informacoesPrato{
+    border: solid 2px #838B8B;
+    width: 300px;
+    height: 80px;
+    margin-left: 10px;
+    padding-top: 30px;
+    border-radius: 30px 30px 0px 0px;
+    background-color: #838B8B;
+}
+
+/*================================================================*/
+
+/*============= Estilo da página carrinho ========================*/
+
+/*O estilo do menu, título e conteúdo principal, é o mesmo da página produtos*/
+
+#dados{
+    border: solid 2px #FFD700;
+    width: 1000px;
+    height: 450px;
+    margin-left: 30px;
+    background-color: #FFD700;
+    border-radius: 15px;
+}
+
+#tabela{
+    border: solid 2px;
+    height: 200px;
+    width: 700px;
+    margin: 40px 0px 0px 140px;
+    border-radius: 5px;
+    
+}
+
+.linhaPrato{
+    border-top: solid 2px;
+}
+
+.linhaValor{
+    border-top: solid 2px;
+    border-left: solid 2px;
+}
+
+th.valor{
+    border-left: solid 2px;
+}
+
+button.botao{
+    margin: 10px 0px 0px 15px;
+    height: 50px;
+    font-family: arial;
+}
+
+p.tot{
+    border: solid 2px #BEBEBE;
+    text-align: center;
+    margin: 10px 400px 0px 400px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #BEBEBE;
+}
+
+/*=================================================================*/
+
+/* Estilo do rodapé das páginas */
+
+#rodape{
+    font-family: arial;
+    border: solid 2px #00008B;
+    margin: 40px 400px 50px 400px;
+    text-align: center;
+    border-radius: 20px 20px 0px 0px;
+    color: white;
+    background-color:#00008B;
+}
